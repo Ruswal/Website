@@ -1,9 +1,9 @@
 <?php
 
-	$db_host = "localhost";
-	$db_user = "rmw462";
-	$db_pwd = "sql2022CS215";
-	$db_db = "rmw462";
+	$db_host = "project-db-instance.cp5ha3dp0dsm.ca-central-1.rds.amazonaws.com";
+	$db_user = "admin";
+	$db_pwd = "375Admin";
+	$db_db = "eCom";
 	$chars = "utf8mb4";
 	$attr = "mysql:host=$db_host;dbname=$db_db;charset = $chars";
 	$opts =[
